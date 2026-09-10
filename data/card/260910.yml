@@ -7,7 +7,7 @@ about:
   latestVersion: "6.2.0"
   latestRelease: "6.2.0"
   latestPrerelease: "0.9.1"
-  collectedAt: 2026-09-10T21:14:02Z
+  collectedAt: 2026-09-10T22:34:19Z
 timeline:
   created: 2017-03-06
   lastCommit: 2026-08-10
@@ -85,7 +85,7 @@ total:
   commit: 446
 ---
 path: /home/runner/.x-repo/github.com/mike-engel/jwt-cli
-collectedAt: 2026-09-10T21:14:03Z
+collectedAt: 2026-09-10T22:34:19Z
 loc:
   Rust:
     code: 2104
