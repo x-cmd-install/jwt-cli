@@ -1,0 +1,249 @@
+- repo: nix_stable_24_05
+  srcname: jwt-cli
+  visiblename: jwt-cli
+  version: 6.0.0
+  origversion: null
+  status: outdated
+  summary: Super fast CLI tool to decode and encode JWTs
+  maintainers:
+    - robert@rycee.net
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: jwt-cli
+  binname: jwt-cli
+  visiblename: jwt-cli
+  version: 6.2.0
+  origversion: 6.2.0-1
+  status: newest
+  summary: A super fast CLI tool to decode and encode JWTs
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: testing
+  srcname: jwt-cli
+  binname: jwt-cli
+  visiblename: jwt-cli
+  version: 6.2.0
+  origversion: 6.2.0-r0
+  status: newest
+  summary: Super fast CLI tool to decode and encode JWTs
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - MIT
+- repo: arch
+  subrepo: extra
+  srcname: jwt-cli
+  binname: jwt-cli
+  visiblename: jwt-cli
+  version: 6.2.0
+  origversion: 6.2.0-1
+  status: newest
+  summary: A super fast CLI tool to decode and encode JWTs
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: jwt-cli
+  binname: jwt-cli
+  visiblename: jwt-cli
+  version: 6.2.0
+  origversion: 6.2.0-r0
+  status: newest
+  summary: CLI tool to decode and encode JWTs
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: jwt-cli
+  binname: jwt-cli-bashcomp
+  visiblename: jwt-cli-bashcomp
+  version: 6.2.0
+  origversion: 6.2.0-r0
+  status: newest
+  summary: CLI tool to decode and encode JWTs (bash completions)
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: jwt-cli
+  binname: jwt-cli-doc
+  visiblename: jwt-cli-doc
+  version: 6.2.0
+  origversion: 6.2.0-r0
+  status: newest
+  summary: CLI tool to decode and encode JWTs (documentation)
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: jwt-cli
+  binname: jwt-cli-fishcomp
+  visiblename: jwt-cli-fishcomp
+  version: 6.2.0
+  origversion: 6.2.0-r0
+  status: newest
+  summary: CLI tool to decode and encode JWTs (fish completions)
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: jwt-cli
+  binname: jwt-cli-nucomp
+  visiblename: jwt-cli-nucomp
+  version: 6.2.0
+  origversion: 6.2.0-r0
+  status: newest
+  summary: CLI tool to decode and encode JWTs (nu completions)
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: jwt-cli
+  binname: jwt-cli-zshcomp
+  visiblename: jwt-cli-zshcomp
+  version: 6.2.0
+  origversion: 6.2.0-r0
+  status: newest
+  summary: CLI tool to decode and encode JWTs (zsh completions)
+  licenses:
+    - MIT
+- repo: freebsd
+  srcname: www/jwt-cli
+  binname: jwt-cli
+  visiblename: www/jwt-cli
+  version: 6.2.0
+  origversion: 6.2.0_15
+  status: newest
+  summary: Super fast CLI tool to decode and encode JWTs
+  maintainers:
+    - osa@freebsd.org
+  categories:
+    - www
+- repo: homebrew
+  srcname: jwt-cli
+  visiblename: jwt-cli
+  version: 6.2.0
+  origversion: null
+  status: newest
+  summary: Super fast CLI tool to decode and encode JWTs built in Rust
+- repo: homebrew
+  srcname: jwt-cli
+  visiblename: jwt-cli
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Super fast CLI tool to decode and encode JWTs built in Rust
+- repo: macports
+  srcname: devel/jwt-cli
+  binname: jwt-cli
+  visiblename: jwt-cli
+  version: 6.2.0
+  origversion: null
+  status: newest
+  summary: A super fast CLI tool to decode and encode JWTs built in Rust
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - MIT
+  categories:
+    - devel
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: jwt-cli
+  binname: jwt-cli
+  visiblename: jwt-cli
+  version: 6.2.0
+  origversion: 6.2.0-1
+  status: newest
+  summary: A super fast CLI tool to decode and encode JWTs
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: jwt-cli
+  binname: jwt-cli
+  visiblename: jwt-cli
+  version: 6.2.0
+  origversion: 6.2.0-1
+  status: newest
+  summary: A super fast CLI tool to decode and encode JWTs
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: jwt-cli
+  visiblename: jwt-cli
+  version: 6.1.1
+  origversion: null
+  status: outdated
+  summary: Super fast CLI tool to decode and encode JWTs
+  maintainers:
+    - robert@rycee.net
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: jwt-cli
+  visiblename: jwt-cli
+  version: 6.2.0
+  origversion: null
+  status: newest
+  summary: Super fast CLI tool to decode and encode JWTs
+  maintainers:
+    - robert@rycee.net
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: jwt-cli
+  visiblename: jwt-cli
+  version: 6.2.0
+  origversion: null
+  status: newest
+  summary: Super fast CLI tool to decode and encode JWTs
+  maintainers:
+    - robert@rycee.net
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: jwt-cli
+  visiblename: jwt-cli
+  version: 6.2.0
+  origversion: null
+  status: newest
+  summary: Super fast CLI tool to decode and encode JWTs
+  maintainers:
+    - robert@rycee.net
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: jwt-cli
+  visiblename: jwt-cli
+  version: 6.2.0
+  origversion: null
+  status: newest
+  summary: Super fast CLI tool to decode and encode JWTs
+  maintainers:
+    - robert@rycee.net
+  licenses:
+    - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: jwt-cli
+  binname: jwt-cli
+  visiblename: jwt-cli
+  version: 6.2.0
+  origversion: 6.2.0-1
+  status: newest
+  summary: A super fast CLI tool to decode and encode JWTs
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: jwt-cli
+  visiblename: jwt-cli
+  version: 6.2.0
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
