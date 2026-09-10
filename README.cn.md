@@ -1,61 +1,61 @@
 # jwt-cli
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 A super fast CLI tool to decode and encode JWTs built in Rust
 
-![jwt-cli](https://repo.x-cmd.io/jwt-cli.svg)
+![jwt-cli](https://repo.x-cmd.io/jwt-cli.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install jwt-cli
 ```
 
-## Code insight
+## 代码规模
 
-Total: **2,324** lines of code across **15** files in the top 5 languages.
+合计: **2,324** 行代码（覆盖前 5 种语言、共 **15** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Rust | 2,104 | 33 | 259 | 7 |
 | Sh | 62 | 7 | 19 | 3 |
 | Json | 58 | 0 | 0 | 3 |
 | Yaml | 52 | 21 | 13 | 1 |
 | Toml | 32 | 0 | 3 | 1 |
 
-## OpenSSF Scorecard
+## OpenSSF Scorecard 评分
 
-Overall score: **3.2 / 10**
+总评分: **3.2 / 10**
 
-Lowest-scoring checks:
+评分最低的几项:
 
 - **Code-Review** (0/10) — Found 0/1 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/mike-engel/jwt-cli>
-- **License**: MIT
+- **上游仓库**: <https://github.com/mike-engel/jwt-cli>
+- **许可证**: MIT
 
-## Release
+## 发布
 
-- **Latest**: `6.2.0` (2024-11-27)
-- **Last commit**: 2026-08-10
-- **Assets in release**: 8
+- **最新版本**: `6.2.0` (2024-11-27)
+- **最近提交**: 2026-08-10
+- **Release 含资产**: 8 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 1,511 · **Forks**: 81 · **Open issues**: 84 · **Contributors**: 29
+- **Star**: 1,511 · **Fork**: 81 · **开放 issue**: 84 · **贡献者**: 29
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 42 · **Merged PRs**: 332 · **Open PRs**: 11 · **Closed issues**: 63 · **Open issues**: 21 · **Commits**: 446
+- **发布数**: 42 · **已合并 PR**: 332 · **开放 PR**: 11 · **已关闭 issue**: 63 · **开放 issue**: 21 · **提交数**: 446
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 2 | 0 | 0 | 0 |
 | last60d | 2026-07-12 | 0 | 7 | 3 | 0 | 0 | 7 |
@@ -64,10 +64,10 @@ Lowest-scoring checks:
 | 360d | 2025-09-15 | 0 | 38 | 6 | 1 | 2 | 39 |
 | last720d | 2024-09-20 | 1 | 87 | 8 | 4 | 6 | 95 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [jwt-linux-musl.sha256](https://github.com/mike-engel/jwt-cli/releases/download/6.2.0/jwt-linux-musl.sha256) | 88 B | `other` |
 | [jwt-linux-musl.tar.gz](https://github.com/mike-engel/jwt-cli/releases/download/6.2.0/jwt-linux-musl.tar.gz) | 1.5 MiB | `native/unknown` |
 | [jwt-linux.sha256](https://github.com/mike-engel/jwt-cli/releases/download/6.2.0/jwt-linux.sha256) | 83 B | `other` |
@@ -77,24 +77,24 @@ Lowest-scoring checks:
 | [jwt-windows.sha256](https://github.com/mike-engel/jwt-cli/releases/download/6.2.0/jwt-windows.sha256) | 65 B | `native/win/x64` |
 | [jwt-windows.tar.gz](https://github.com/mike-engel/jwt-cli/releases/download/6.2.0/jwt-windows.tar.gz) | 1.3 MiB | `native/win/x64` |
 
-## Distribution status
+## 发行版状态
 
-Reported by **23** distros on [repology.org](https://repology.org/project/jwt-cli). **20** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+在 [repology.org](https://repology.org/project/jwt-cli) 上共有 **23** 个发行版报告此项目。**20** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
 
-| Distro | Version | Status |
-|--------|---------|--------|
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
 | Arch | `6.2.0` | ✅ latest |
 | Homebrew | `6.2.0` | ✅ latest |
 | Nix unstable | `6.2.0` | ✅ latest |
 | Alpine edge | `6.2.0` | ✅ latest |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for jwt-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jwt-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+jwt-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `jwt-cli` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/jwt-cli.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/jwt-cli.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:14:10Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:14:10Z._
