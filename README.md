@@ -26,7 +26,7 @@ Total: **2,324** lines of code across **15** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.2 / 10**
+Overall score: **3.1 / 10**
 
 Lowest-scoring checks:
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,511 · **Forks**: 81 · **Open issues**: 84 · **Contributors**: 29
+- **Stars**: 1,510 · **Forks**: 81 · **Open issues**: 84 · **Contributors**: 29
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-07-16 | 0 | 7 | 3 | 0 | 0 | 4 |
-| 90d | 2026-06-16 | 0 | 8 | 3 | 0 | 0 | 8 |
-| last180d | 2026-03-18 | 0 | 15 | 4 | 1 | 0 | 14 |
-| 360d | 2025-09-19 | 0 | 38 | 6 | 1 | 2 | 38 |
-| last720d | 2024-09-24 | 1 | 86 | 8 | 4 | 6 | 94 |
+| 30d | 2026-08-16 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-17 | 0 | 7 | 3 | 0 | 0 | 4 |
+| 90d | 2026-06-17 | 0 | 8 | 3 | 0 | 0 | 8 |
+| last180d | 2026-03-19 | 0 | 15 | 4 | 1 | 0 | 14 |
+| 360d | 2025-09-20 | 0 | 38 | 6 | 1 | 2 | 38 |
+| last720d | 2024-09-25 | 1 | 86 | 8 | 4 | 6 | 94 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for jwt-cli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T06:38:12Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T06:38:06Z._
