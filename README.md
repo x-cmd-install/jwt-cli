@@ -4,7 +4,7 @@
 
 A super fast CLI tool to decode and encode JWTs built in Rust
 
-![jwt-cli](https://repo.x-cmd.io/jwt-cli.svg)
+[![x-cmd/install — jwt-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/jwt-cli.svg)](https://x-cmd.com/install/jwt-cli)
 
 ## Install
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 4 | 3 | 0 | 0 | 4 |
-| 90d | 2026-06-20 | 0 | 8 | 3 | 0 | 0 | 8 |
-| last180d | 2026-03-22 | 0 | 15 | 4 | 1 | 0 | 14 |
-| 360d | 2025-09-23 | 0 | 37 | 6 | 1 | 2 | 38 |
-| last720d | 2024-09-28 | 1 | 86 | 8 | 4 | 6 | 94 |
+| 30d | 2026-08-21 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 4 | 3 | 0 | 0 | 3 |
+| 90d | 2026-06-22 | 0 | 8 | 3 | 0 | 0 | 8 |
+| last180d | 2026-03-24 | 0 | 14 | 4 | 1 | 0 | 14 |
+| 360d | 2025-09-25 | 0 | 37 | 6 | 1 | 2 | 38 |
+| last720d | 2024-09-30 | 1 | 86 | 8 | 4 | 6 | 94 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for jwt-cli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:21:23Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:17:46Z._
