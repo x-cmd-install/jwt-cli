@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 88,
       "digest": null,
-      "download_count": 15486,
+      "download_count": 15563,
       "created_at": "2024-11-27T14:32:17Z",
       "updated_at": "2024-11-27T14:32:18Z",
       "browser_download_url": "https://github.com/mike-engel/jwt-cli/releases/download/6.2.0/jwt-linux-musl.sha256"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1558124,
       "digest": null,
-      "download_count": 71145,
+      "download_count": 71329,
       "created_at": "2024-11-27T14:32:17Z",
       "updated_at": "2024-11-27T14:32:18Z",
       "browser_download_url": "https://github.com/mike-engel/jwt-cli/releases/download/6.2.0/jwt-linux-musl.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 83,
       "digest": null,
-      "download_count": 1028,
+      "download_count": 1031,
       "created_at": "2024-11-27T14:33:41Z",
       "updated_at": "2024-11-27T14:33:41Z",
       "browser_download_url": "https://github.com/mike-engel/jwt-cli/releases/download/6.2.0/jwt-linux.sha256"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1507733,
       "digest": null,
-      "download_count": 213046,
+      "download_count": 213097,
       "created_at": "2024-11-27T14:33:41Z",
       "updated_at": "2024-11-27T14:33:42Z",
       "browser_download_url": "https://github.com/mike-engel/jwt-cli/releases/download/6.2.0/jwt-linux.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 83,
       "digest": null,
-      "download_count": 3221,
+      "download_count": 3246,
       "created_at": "2024-11-27T14:29:49Z",
       "updated_at": "2024-11-27T14:29:49Z",
       "browser_download_url": "https://github.com/mike-engel/jwt-cli/releases/download/6.2.0/jwt-macOS.sha256"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2745127,
       "digest": null,
-      "download_count": 24715,
+      "download_count": 24729,
       "created_at": "2024-11-27T14:29:49Z",
       "updated_at": "2024-11-27T14:29:49Z",
       "browser_download_url": "https://github.com/mike-engel/jwt-cli/releases/download/6.2.0/jwt-macOS.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": null,
-      "download_count": 530,
+      "download_count": 546,
       "created_at": "2024-11-27T14:36:50Z",
       "updated_at": "2024-11-27T14:36:51Z",
       "browser_download_url": "https://github.com/mike-engel/jwt-cli/releases/download/6.2.0/jwt-windows.sha256"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1361998,
       "digest": null,
-      "download_count": 5836,
+      "download_count": 5838,
       "created_at": "2024-11-27T14:36:51Z",
       "updated_at": "2024-11-27T14:36:51Z",
       "browser_download_url": "https://github.com/mike-engel/jwt-cli/releases/download/6.2.0/jwt-windows.tar.gz"
