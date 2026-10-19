@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 0 | 2 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-19 | 0 | 2 | 2 | 0 | 0 | 2 |
-| 90d | 2026-07-20 | 0 | 6 | 3 | 0 | 0 | 6 |
-| last180d | 2026-04-21 | 0 | 15 | 4 | 1 | 0 | 13 |
-| 360d | 2025-10-23 | 0 | 35 | 5 | 1 | 2 | 35 |
-| last720d | 2024-10-28 | 1 | 83 | 8 | 4 | 6 | 92 |
+| 30d | 2026-09-19 | 0 | 2 | 1 | 0 | 0 | 0 |
+| last60d | 2026-08-20 | 0 | 2 | 2 | 0 | 0 | 2 |
+| 90d | 2026-07-21 | 0 | 6 | 3 | 0 | 0 | 6 |
+| last180d | 2026-04-22 | 0 | 15 | 4 | 1 | 0 | 13 |
+| 360d | 2025-10-24 | 0 | 35 | 5 | 1 | 2 | 35 |
+| last720d | 2024-10-29 | 1 | 83 | 8 | 4 | 6 | 91 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for jwt-cli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T05:36:15Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:44:07Z._
