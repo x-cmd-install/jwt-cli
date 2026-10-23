@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,520 · **Forks**: 81 · **Open issues**: 84 · **Contributors**: 29
+- **Stars**: 1,521 · **Forks**: 81 · **Open issues**: 84 · **Contributors**: 29
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-08-23 | 0 | 3 | 2 | 0 | 0 | 3 |
-| 90d | 2026-07-24 | 0 | 7 | 3 | 0 | 0 | 7 |
-| last180d | 2026-04-25 | 0 | 16 | 4 | 1 | 0 | 14 |
-| 360d | 2025-10-27 | 0 | 35 | 5 | 1 | 2 | 36 |
-| last720d | 2024-11-01 | 1 | 84 | 8 | 4 | 6 | 92 |
+| 30d | 2026-09-23 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-08-24 | 0 | 3 | 2 | 0 | 0 | 3 |
+| 90d | 2026-07-25 | 0 | 7 | 3 | 0 | 0 | 7 |
+| last180d | 2026-04-26 | 0 | 16 | 4 | 1 | 0 | 14 |
+| 360d | 2025-10-28 | 0 | 35 | 5 | 1 | 2 | 36 |
+| last720d | 2024-11-02 | 1 | 84 | 8 | 3 | 6 | 92 |
 
 ## Release assets
 
@@ -77,6 +77,17 @@ Lowest-scoring checks:
 | [jwt-windows.sha256](https://github.com/mike-engel/jwt-cli/releases/download/6.2.0/jwt-windows.sha256) | 65 B | `native/win/x64` |
 | [jwt-windows.tar.gz](https://github.com/mike-engel/jwt-cli/releases/download/6.2.0/jwt-windows.tar.gz) | 1.3 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **23** distros on [repology.org](https://repology.org/project/jwt-cli). **20** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `6.2.0` | ✅ latest |
+| Homebrew | `6.2.0` | ✅ latest |
+| Nix unstable | `6.2.0` | ✅ latest |
+| Alpine edge | `6.2.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for jwt-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jwt-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -86,4 +97,4 @@ Install metadata for jwt-cli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:53:12Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:56:05Z._
