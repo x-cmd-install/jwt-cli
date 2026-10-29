@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,521 · **Forks**: 81 · **Open issues**: 84 · **Contributors**: 29
+- **Stars**: 1,522 · **Forks**: 81 · **Open issues**: 84 · **Contributors**: 29
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-08-29 | 0 | 3 | 2 | 0 | 0 | 3 |
-| 90d | 2026-07-30 | 0 | 6 | 3 | 0 | 0 | 6 |
-| last180d | 2026-05-01 | 0 | 14 | 4 | 1 | 0 | 14 |
-| 360d | 2025-11-02 | 0 | 35 | 5 | 1 | 2 | 33 |
-| last720d | 2024-11-07 | 1 | 83 | 8 | 3 | 6 | 91 |
+| 30d | 2026-09-29 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-08-30 | 0 | 3 | 2 | 0 | 0 | 3 |
+| 90d | 2026-07-31 | 0 | 6 | 3 | 0 | 0 | 6 |
+| last180d | 2026-05-02 | 0 | 14 | 4 | 1 | 0 | 14 |
+| 360d | 2025-11-03 | 0 | 32 | 5 | 1 | 2 | 33 |
+| last720d | 2024-11-08 | 1 | 83 | 8 | 3 | 6 | 91 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for jwt-cli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:55:53Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T07:00:11Z._
