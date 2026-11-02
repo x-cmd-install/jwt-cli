@@ -1,36 +1,3 @@
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: jwt-cli
-  binname: jwt-cli
-  visiblename: jwt-cli
-  version: 6.2.0
-  origversion: 6.2.0-1
-  status: newest
-  summary: A super fast CLI tool to decode and encode JWTs
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: jwt-cli
-  binname: jwt-cli
-  visiblename: jwt-cli
-  version: 6.2.0
-  origversion: 6.2.0-1
-  status: newest
-  summary: A super fast CLI tool to decode and encode JWTs
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: jwt-cli
-  binname: jwt-cli
-  visiblename: jwt-cli
-  version: 6.2.0
-  origversion: 6.2.0-1
-  status: newest
-  summary: A super fast CLI tool to decode and encode JWTs
-  licenses:
-    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: jwt-cli
@@ -161,6 +128,39 @@
     - MIT
   categories:
     - devel
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: jwt-cli
+  binname: jwt-cli
+  visiblename: jwt-cli
+  version: 6.0.0
+  origversion: 6.0.0-1
+  status: outdated
+  summary: A super fast CLI tool to decode and encode JWTs
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: jwt-cli
+  binname: jwt-cli
+  visiblename: jwt-cli
+  version: 6.0.0
+  origversion: 6.0.0-1
+  status: outdated
+  summary: A super fast CLI tool to decode and encode JWTs
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: jwt-cli
+  binname: jwt-cli
+  visiblename: jwt-cli
+  version: 6.2.0
+  origversion: 6.2.0-1
+  status: newest
+  summary: A super fast CLI tool to decode and encode JWTs
+  licenses:
+    - MIT
 - repo: nix_stable_24_05
   srcname: jwt-cli
   visiblename: jwt-cli
