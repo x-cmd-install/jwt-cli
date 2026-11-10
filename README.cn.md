@@ -24,16 +24,6 @@ x install jwt-cli
 | Yaml | 52 | 21 | 13 | 1 |
 | Toml | 32 | 0 | 3 | 1 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **3 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (0/10) — Found 0/1 approved changesets -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/mike-engel/jwt-cli>
@@ -57,12 +47,12 @@ x install jwt-cli
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-09 | 0 | 3 | 1 | 0 | 0 | 3 |
-| 90d | 2026-08-10 | 0 | 3 | 3 | 0 | 0 | 3 |
-| last180d | 2026-05-12 | 0 | 13 | 3 | 1 | 0 | 13 |
-| 360d | 2025-11-13 | 0 | 32 | 5 | 1 | 2 | 33 |
-| last720d | 2024-11-18 | 1 | 80 | 8 | 3 | 6 | 90 |
+| 30d | 2026-10-11 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-11 | 0 | 3 | 1 | 0 | 0 | 3 |
+| 90d | 2026-08-12 | 0 | 3 | 3 | 0 | 0 | 3 |
+| last180d | 2026-05-14 | 0 | 13 | 3 | 1 | 0 | 13 |
+| 360d | 2025-11-15 | 0 | 32 | 5 | 1 | 2 | 33 |
+| last720d | 2024-11-20 | 1 | 80 | 8 | 3 | 6 | 88 |
 
 ## Release 资产
 
@@ -97,4 +87,4 @@ jwt-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261108.yml` · 2026-11-08T07:20:21Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T08:51:27Z._
