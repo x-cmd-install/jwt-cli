@@ -37,7 +37,7 @@ Total: **2,324** lines of code across **15** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,524 · **Forks**: 81 · **Open issues**: 84 · **Contributors**: 29
+- **Stars**: 1,524 · **Forks**: 82 · **Open issues**: 84 · **Contributors**: 29
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **2,324** lines of code across **15** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 1 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-16 | 0 | 3 | 1 | 0 | 0 | 1 |
-| 90d | 2026-08-17 | 0 | 3 | 2 | 0 | 0 | 3 |
-| last180d | 2026-05-19 | 0 | 13 | 3 | 1 | 0 | 12 |
-| 360d | 2025-11-20 | 0 | 32 | 5 | 1 | 2 | 31 |
-| last720d | 2024-11-25 | 1 | 79 | 8 | 3 | 6 | 88 |
+| 30d | 2026-10-17 | 0 | 1 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-17 | 0 | 3 | 1 | 0 | 0 | 1 |
+| 90d | 2026-08-18 | 0 | 3 | 2 | 0 | 0 | 3 |
+| last180d | 2026-05-20 | 0 | 13 | 3 | 1 | 0 | 12 |
+| 360d | 2025-11-21 | 0 | 32 | 5 | 1 | 2 | 31 |
+| last720d | 2024-11-26 | 1 | 79 | 8 | 3 | 6 | 83 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for jwt-cli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T08:19:31Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:34:27Z._
