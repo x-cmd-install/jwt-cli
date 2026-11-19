@@ -47,12 +47,12 @@ Total: **2,324** lines of code across **15** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 1 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-17 | 0 | 3 | 1 | 0 | 0 | 1 |
-| 90d | 2026-08-18 | 0 | 3 | 2 | 0 | 0 | 3 |
-| last180d | 2026-05-20 | 0 | 13 | 3 | 1 | 0 | 12 |
-| 360d | 2025-11-21 | 0 | 32 | 5 | 1 | 2 | 31 |
-| last720d | 2024-11-26 | 1 | 79 | 8 | 3 | 6 | 83 |
+| 30d | 2026-10-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-20 | 0 | 3 | 1 | 0 | 0 | 1 |
+| 90d | 2026-08-21 | 0 | 3 | 2 | 0 | 0 | 3 |
+| last180d | 2026-05-23 | 0 | 13 | 3 | 1 | 0 | 12 |
+| 360d | 2025-11-24 | 0 | 30 | 5 | 1 | 2 | 31 |
+| last720d | 2024-11-29 | 0 | 79 | 8 | 3 | 6 | 82 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for jwt-cli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:34:27Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:33:28Z._
