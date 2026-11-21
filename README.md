@@ -24,6 +24,16 @@ Total: **2,324** lines of code across **15** files in the top 5 languages.
 | Yaml | 52 | 21 | 13 | 1 |
 | Toml | 32 | 0 | 3 | 1 |
 
+## OpenSSF Scorecard
+
+Overall score: **2.7 / 10**
+
+Lowest-scoring checks:
+
+- **Maintained** (2/10) — 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
+- **Code-Review** (0/10) — Found 0/1 approved changesets -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/mike-engel/jwt-cli>
@@ -47,12 +57,12 @@ Total: **2,324** lines of code across **15** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-21 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-22 | 0 | 3 | 2 | 0 | 0 | 3 |
-| last180d | 2026-05-24 | 0 | 13 | 3 | 1 | 0 | 12 |
-| 360d | 2025-11-25 | 0 | 30 | 5 | 1 | 2 | 31 |
-| last720d | 2024-11-30 | 0 | 79 | 8 | 3 | 6 | 82 |
+| 30d | 2026-10-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-22 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-23 | 0 | 3 | 2 | 0 | 0 | 3 |
+| last180d | 2026-05-25 | 0 | 12 | 3 | 1 | 0 | 12 |
+| 360d | 2025-11-26 | 0 | 30 | 5 | 1 | 2 | 31 |
+| last720d | 2024-12-01 | 0 | 79 | 8 | 3 | 6 | 82 |
 
 ## Release assets
 
@@ -87,4 +97,4 @@ Install metadata for jwt-cli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T10:34:49Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:53:56Z._
