@@ -26,13 +26,13 @@ Total: **2,324** lines of code across **15** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **2.7 / 10**
+Overall score: **3 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (2/10) — 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
 - **Code-Review** (0/10) — Found 0/1 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `6.2.0` (2024-11-27)
-- **Last commit**: 2026-10-19
+- **Last commit**: 2026-11-23
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 1,523 · **Forks**: 82 · **Open issues**: 84 · **Contributors**: 29
+- **Stars**: 1,522 · **Forks**: 82 · **Open issues**: 84 · **Contributors**: 29
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 335 · **Open PRs**: 11 · **Closed issues**: 63 · **Open issues**: 21 · **Commits**: 449
+- **Releases**: 42 · **Merged PRs**: 338 · **Open PRs**: 10 · **Closed issues**: 63 · **Open issues**: 21 · **Commits**: 452
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-24 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-25 | 0 | 3 | 2 | 0 | 0 | 3 |
-| last180d | 2026-05-27 | 0 | 12 | 3 | 0 | 0 | 12 |
-| 360d | 2025-11-28 | 0 | 30 | 5 | 1 | 2 | 31 |
-| last720d | 2024-12-03 | 0 | 79 | 8 | 3 | 6 | 82 |
+| 30d | 2026-10-25 | 0 | 3 | 1 | 0 | 0 | 3 |
+| last60d | 2026-09-25 | 0 | 4 | 1 | 0 | 0 | 4 |
+| 90d | 2026-08-26 | 0 | 6 | 2 | 0 | 0 | 6 |
+| last180d | 2026-05-28 | 0 | 15 | 2 | 0 | 0 | 15 |
+| 360d | 2025-11-29 | 0 | 33 | 4 | 1 | 2 | 34 |
+| last720d | 2024-12-04 | 0 | 82 | 7 | 3 | 6 | 85 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for jwt-cli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T10:28:37Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:40:57Z._

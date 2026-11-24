@@ -26,13 +26,13 @@ x install jwt-cli
 
 ## OpenSSF Scorecard 评分
 
-总评分: **2.7 / 10**
+总评分: **3 / 10**
 
 评分最低的几项:
 
-- **Maintained** (2/10) — 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
 - **Code-Review** (0/10) — Found 0/1 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -42,27 +42,27 @@ x install jwt-cli
 ## 发布
 
 - **最新版本**: `6.2.0` (2024-11-27)
-- **最近提交**: 2026-10-19
+- **最近提交**: 2026-11-23
 - **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 1,523 · **Fork**: 82 · **开放 issue**: 84 · **贡献者**: 29
+- **Star**: 1,522 · **Fork**: 82 · **开放 issue**: 84 · **贡献者**: 29
 
 ## 累计统计
 
-- **发布数**: 42 · **已合并 PR**: 335 · **开放 PR**: 11 · **已关闭 issue**: 63 · **开放 issue**: 21 · **提交数**: 449
+- **发布数**: 42 · **已合并 PR**: 338 · **开放 PR**: 10 · **已关闭 issue**: 63 · **开放 issue**: 21 · **提交数**: 452
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-24 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-25 | 0 | 3 | 2 | 0 | 0 | 3 |
-| last180d | 2026-05-27 | 0 | 12 | 3 | 0 | 0 | 12 |
-| 360d | 2025-11-28 | 0 | 30 | 5 | 1 | 2 | 31 |
-| last720d | 2024-12-03 | 0 | 79 | 8 | 3 | 6 | 82 |
+| 30d | 2026-10-25 | 0 | 3 | 1 | 0 | 0 | 3 |
+| last60d | 2026-09-25 | 0 | 4 | 1 | 0 | 0 | 4 |
+| 90d | 2026-08-26 | 0 | 6 | 2 | 0 | 0 | 6 |
+| last180d | 2026-05-28 | 0 | 15 | 2 | 0 | 0 | 15 |
+| 360d | 2025-11-29 | 0 | 33 | 4 | 1 | 2 | 34 |
+| last720d | 2024-12-04 | 0 | 82 | 7 | 3 | 6 | 85 |
 
 ## Release 资产
 
@@ -97,4 +97,4 @@ jwt-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T10:28:37Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T11:40:58Z._
