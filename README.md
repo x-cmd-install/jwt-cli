@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 3 | 1 | 0 | 0 | 3 |
-| last60d | 2026-09-25 | 0 | 4 | 1 | 0 | 0 | 4 |
-| 90d | 2026-08-26 | 0 | 6 | 2 | 0 | 0 | 6 |
-| last180d | 2026-05-28 | 0 | 15 | 2 | 0 | 0 | 15 |
-| 360d | 2025-11-29 | 0 | 33 | 4 | 1 | 2 | 34 |
-| last720d | 2024-12-04 | 0 | 82 | 7 | 3 | 6 | 85 |
+| 30d | 2026-10-26 | 0 | 3 | 1 | 0 | 0 | 3 |
+| last60d | 2026-09-26 | 0 | 4 | 1 | 0 | 0 | 4 |
+| 90d | 2026-08-27 | 0 | 6 | 2 | 0 | 0 | 6 |
+| last180d | 2026-05-29 | 0 | 15 | 2 | 0 | 0 | 15 |
+| 360d | 2025-11-30 | 0 | 33 | 4 | 1 | 2 | 34 |
+| last720d | 2024-12-05 | 0 | 82 | 7 | 3 | 6 | 85 |
 
 ## Release assets
 
@@ -77,17 +77,6 @@ Lowest-scoring checks:
 | [jwt-windows.sha256](https://github.com/mike-engel/jwt-cli/releases/download/6.2.0/jwt-windows.sha256) | 65 B | `native/win/x64` |
 | [jwt-windows.tar.gz](https://github.com/mike-engel/jwt-cli/releases/download/6.2.0/jwt-windows.tar.gz) | 1.3 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **23** distros on [repology.org](https://repology.org/project/jwt-cli). **20** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `6.2.0` | ✅ latest |
-| Homebrew | `6.2.0` | ✅ latest |
-| Nix unstable | `6.2.0` | ✅ latest |
-| Alpine edge | `6.2.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for jwt-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jwt-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -97,4 +86,4 @@ Install metadata for jwt-cli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:40:57Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:23:24Z._
